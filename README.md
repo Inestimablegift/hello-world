@@ -1,2 +1,4 @@
 # hello-world
-This is the beginning of learning how to use git
+Hi there,
+
+I am learning how to use the Github. I hope to catch up on time
